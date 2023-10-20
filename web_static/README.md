@@ -1,5 +1,6 @@
 # 0x01. AirBnB clone - Web static
-## Learning Objectives:bulb:
+
+## Learning Objectives
 What you should learn from this project:
 
 * What is HTML
@@ -15,5 +16,3 @@ What you should learn from this project:
 * What is a selector
 * How to compute CSS Specificity Value
 * What are Box properties in CSS
-
-
